@@ -1,6 +1,6 @@
 ### Hi there 🧡
 <br>
-# Profile Statistics
+### Profile Statistics
 
 <table>
     <tr>
